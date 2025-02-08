@@ -14,3 +14,5 @@ cd server-performance-stats
 pip install psutil
 4. Run the script:
 python server_stats.py
+
+https://roadmap.sh/projects/server-stats
